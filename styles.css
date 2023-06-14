@@ -32,6 +32,7 @@ h2 {
 }
 
 .threevert {
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -91,8 +92,12 @@ h2 {
   background-color: #000;
 }
 
-.red twovert {
-  background-color:#DC143C
+.red {
+  background-color:#DC143C;
+}
+
+#white {
+  background-color: #fff;
 }
 
 /* BEGIN QUESTION 2 */
